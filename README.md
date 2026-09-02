@@ -1,4 +1,4 @@
-# BcnCor Marketing Automation Platform
+# Marketing Automation Platform
 
 An internal web application for automating a marketing content workflow.
 
