@@ -1,0 +1,3 @@
+# Backup bundle of the pre-scrub original history (kept locally, never published)
+.original-repo-backup.bundle
+_scrub_changed_files.txt

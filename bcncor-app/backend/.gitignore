@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment variables — never commit real secrets
+.env
+
+# Canva OAuth token cache
+.canva-token.json
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Orphaned scraped-data dumps (not read by current code; contain raw
+# third-party scraped content) — never publish these
+data/*.json
