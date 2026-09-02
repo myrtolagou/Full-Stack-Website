@@ -30,7 +30,5 @@ Company and competitor names in this repository have been placed with generic pl
 
 ## Setup
 
-See `bcncor-app/backend/README.md` for backend setup (environment variables, database migrations, seeds) and `bcncor-app/frontend` for the Vite frontend. Copy `.env.production.example` and `.firebaserc.example` in the frontend to your own real values before deploying — they are gitignored on purpose.
-
----
+See `bcncor-app/backend/README.md` for backend setup (environment variables, database migrations, seeds) and `bcncor-app/frontend` for the Vite frontend. Copy `.env.production.example` and `.firebaserc.example` in the frontend to your own real values before deploying.
 
