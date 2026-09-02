@@ -1,5 +1,3 @@
-# Marketing Automation Platform
-
 An internal web application for automating a marketing content workflow.
 
 Company and competitor names in this repository have been placed with generic placeholders (`BcnCor`, `Competitor 1`–`Competitor 7`) for privacy.
